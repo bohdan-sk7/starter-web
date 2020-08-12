@@ -6,6 +6,8 @@
      Batman Forever
    
      Doing some changes
+
+     Adding important notes on git stash
 # THANKS
 
 
