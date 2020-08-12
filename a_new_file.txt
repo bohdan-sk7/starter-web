@@ -1,2 +1,3 @@
 #Adding new file in git project
 this file is stiil not tracked
+adding stash new branch
