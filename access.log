@@ -1,0 +1,7 @@
+
+#Access to Autorized Users only
+# Adding git ignore in git stash
+/status 200
+/httpaccess 200
+/mktsp 300
+/dummy 3000
